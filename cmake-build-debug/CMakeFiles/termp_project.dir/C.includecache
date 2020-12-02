@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/YUSUF ATALAY/CLionProjects/termp_project/Yusuf_Taha_ATALAY.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

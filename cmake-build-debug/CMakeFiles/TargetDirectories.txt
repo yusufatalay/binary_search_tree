@@ -1,0 +1,3 @@
+C:/Users/YUSUF ATALAY/CLionProjects/termp_project/cmake-build-debug/CMakeFiles/termp_project.dir
+C:/Users/YUSUF ATALAY/CLionProjects/termp_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/YUSUF ATALAY/CLionProjects/termp_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
